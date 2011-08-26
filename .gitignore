@@ -1,0 +1,5 @@
+dev.db
+*.pyc
+settings.py
+manage.py
+.idea/
